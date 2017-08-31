@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using DDDFull.Common;
@@ -25,6 +25,8 @@ namespace DDDFull.Services
 
                 personRepository.Create(person);
                 addressRepository.Create(person.Address);
+
+                _unitOfWork.CommitTransaction();
             }
         }
     }
