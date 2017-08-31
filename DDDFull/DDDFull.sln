@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "DDDFull", "DDDFull\DDDFull.shproj", "{98FDF2AB-6086-4A49-A008-BEBF9F62D314}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		DDDFull\DDDFull.projitems*{98fdf2ab-6086-4a49-a008-bebf9f62d314}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F374D97C-C47A-4574-B2F3-E0A73D2FC3D9}
+	EndGlobalSection
+EndGlobal
